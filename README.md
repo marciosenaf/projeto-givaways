@@ -1,7 +1,7 @@
 
 # Sobre o Projeto
 
-Este Projeto e um teste que consiste em um CRUD gerenciamento de uma loja e um sistema para realizar consultas dos municípios do Rio de Janeiro
+Este Projeto e um teste que consiste em um CRUD de gerenciamento de uma loja e um sistema para realizar consultas dos municípios do Rio de Janeiro
 
 
 # Requisitos
