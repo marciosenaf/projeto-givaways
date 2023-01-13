@@ -1,7 +1,7 @@
 
 # Sobre o Projeto
 
-Este Projeto e uma aplicacao back-end, front-end e com o banco de dados implementado MongoDB, lista de filme feito para o processo seletivo da EUREKKA 08/2022
+Este Projeto e um teste que consiste em um CRUD gerenciamento de uma loja e um sistema para realizar consultas dos municípios do Rio de Janeiro
 
 
 # Requisitos
@@ -15,8 +15,11 @@ Este Projeto e uma aplicacao back-end, front-end e com o banco de dados implemen
 # Como executar o projeto
 
 ```bash
-# clonar repositório
-git clone https://github.com/marciosenaf/.lista-de-filmes-eurekka
+clonar repositório
+https://github.com/marciosenaf/projeto-givaways
+
+build
+npm tsc
 
 instalar dependencies:
 npm install
