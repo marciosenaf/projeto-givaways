@@ -120,7 +120,7 @@ const municipalitySchema = new mongoose.Schema({
 
 const Municipality = mongoose.model<typeof municipalitySchema>('Municipality', municipalitySchema);
 
-app.get('/municipalities', async (req, res) => {
+app.get('/municipalities', async (req: Request, res: Response) => {
     try {
         const response = await axios.get('https://servicodados.ibge.gov.br/api/v1/localidades/estados/33/municipios');
         const municipalities = response.data.map(item => {
