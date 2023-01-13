@@ -15,10 +15,10 @@ Este Projeto e um teste que consiste em um CRUD de gerenciamento de uma loja e u
 # Como executar o projeto
 
 ```bash
-clonar repositório
+# clonar repositório
 https://github.com/marciosenaf/projeto-givaways
 
-build
+# build 
 npm tsc
 
 instalar dependencies:
